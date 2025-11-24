@@ -1,4 +1,4 @@
-# Lab_Assign_2# LAB_ASSIGN-_JAVA_2
+# Lab_Assign_2
 
 📘 Student Management System (Java)
 
